@@ -1,9 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Freeman&family=Sedan+SC&display=swap');
 :root {
-    --cor-de-fundo: #f50000ee;
+    --cor-de-fundo: #fdfdfdee;
     --verde: #e0e0e0;
-    --branco: #2e2626;
-    --botao-ativo: #000000;
+    --branco: #ffffff;
+    --botao-ativo: #00ff0d;
     --botao-inativo: rgb(3, 35, 15);
     --texto-fundo: rgba(0, 0, 0, 0.97);
 }
